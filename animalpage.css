@@ -157,6 +157,8 @@ h2{
 h3{
     z-index: 4;
     padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     background-color: white;
     font-weight: normal;
     border-radius: 10px;
