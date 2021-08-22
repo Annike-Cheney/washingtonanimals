@@ -1,7 +1,7 @@
 .maindiv{
     align-content: flex-start;
     background-color: rgba(255, 255, 255,0.01);
-    font-family: 'Montserrat';
+    font-family: Montserrat;
     text-align: center;
     width: 750px;
     max-width: 750px;
@@ -20,6 +20,11 @@
     padding-top: 0px;
     padding-bottom: 30px;
     height: 100%;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(montserrat.woff);
 }
 
 /* width */

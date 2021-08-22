@@ -18,6 +18,10 @@
     top:0;
 }
 
+@font-face {
+    font-family: Montserrat;
+    src: url(montserrat.woff);
+}
 
 /* width */
 ::-webkit-scrollbar {
